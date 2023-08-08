@@ -11,3 +11,7 @@
     text-align: center;
     text-decoration: underline;
 }
+.video-player{
+    height: 300px;
+    width: 400px;
+}
